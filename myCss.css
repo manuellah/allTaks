@@ -1,3 +1,4 @@
-img {
-    margin-left: 50px; 
+img, h2,p {
+    margin-left: 200px; 
+    border: none;
 }
