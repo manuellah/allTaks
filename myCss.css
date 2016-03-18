@@ -4,7 +4,7 @@ div.margn,img,button,div.myBody,div.two  {
     margin-right: 300px;
     border: none;
 }
-div.two {
+div.two,div.solo {
     display:block;
     margin: 50px;
     padding: 1px;
@@ -47,4 +47,12 @@ div.two one img {
     width: 200;
     float:left;
     margin:5;
+}
+div.solo img {
+    display:inline;
+    width:200;
+    
+}
+div.solo p {
+    display:inline;s
 }
