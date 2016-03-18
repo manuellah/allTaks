@@ -1,4 +1,50 @@
-img, h2,p {
+div.margn,img,button,div.myBody,div.two  {
+    display: block;
     margin-left: 200px; 
+    margin-right: 300px;
     border: none;
+}
+div.two {
+    display:block;
+    margin: 50px;
+    padding: 1px;
+    border: none;
+    height: 200;
+    width: 300;
+    float: left;
+    text-align: center; 
+    margin-right: 300px;
+    margin-left: 200px;
+    border:none;
+}
+div.img {
+    margin: 5px;
+    padding: 1px;
+    border: none;
+    height: auto;
+    width: 235;
+    float: left;
+    text-align: center;
+}
+
+div.img img {
+    display: inline;
+    margin: 5px;
+    border: none;
+}
+
+div.mybody img {
+display:inline
+}
+div.two one h3 {
+   display:inline; 
+    width: 350;
+    float:left;
+    margin:5;
+}
+div.two one img {
+   display:inline; 
+    width: 200;
+    float:left;
+    margin:5;
 }
