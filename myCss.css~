@@ -6,14 +6,9 @@ div.margn,img,button,div.myBody,div.two,div.gnome  {
 }
 div.gnome {
     height: 100px;
-    background-color: darkgray;
+    background-color: pink;
     padding-top:10px;
     padding-left:5px; 
-    width: 850px;
-}
-div.gnome h1 {
-    
-    color: yellow;
 }
 div.two,div.solo {
     display:block;
